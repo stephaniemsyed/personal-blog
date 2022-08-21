@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "personal-blog"
+name = "stephaniemavisblog"
 version = "0.1.0"
 description = "Following https://flask.palletsprojects.com/en/2.2.x/tutorial/"
 authors = ["Your Name <you@example.com>"]
