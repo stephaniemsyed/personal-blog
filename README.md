@@ -1,2 +1,2 @@
 # personal-blog
-Following https://www.tutorialspoint.com/flask/flask_overview.htm
+Following https://flask.palletsprojects.com/en/2.2.x/tutorial/
